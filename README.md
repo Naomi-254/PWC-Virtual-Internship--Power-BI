@@ -2,8 +2,8 @@
 I participated in the PwC Switzerland Virtual internship and these are the completed projects.
 ### Table of Content
 - [Call Center Analysis](#call-center-analysis)
-- [Customer Retention](#customer-retention)
-- [Diversity & Inclusion](diversity-&-inclusion)
+- [Customer Retention](#customer_retention)
+- [Diversity & Inclusion](#diversity-&-inclusion)
   
 #### Flow of work-:
 
