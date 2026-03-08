@@ -1,4 +1,4 @@
-# PwC Switzerland Power BI Job Simulation: Data-Driven Business Insights
+# Data-Driven-Strategies-for-Churn-Retention-and-HR-Diversity: Data-Driven Business Insights
 
 > **Role:** Digital Accelerator Consultant (Virtual Internship)  
 > **Tools:** Power BI, Power Query, DAX  
